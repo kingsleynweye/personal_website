@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <h3>Who am I?!</h3>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: me_1.jpeg
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Civil, Architectural and Environmental Engineering</p>
+    <p>The University of Texas at Austin</p>
+    <p>301 E. Dean Keeton St.</p>
+    <p>Austin, Texas 78712-1700</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the [Department of Civil, Architectural, and Environmental Engineering](https://www.caee.utexas.edu) at The University of Texas at Austin (UT) and a researcher in the [Intelligent Environments Laboratory](https://www.ie-lab.org) under the supervision of [Prof. Dr. Zoltan Nagy](https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy). I also serve as a Graduate Research Assistant for the [Utility and Energy Management](https://utilities.utexas.edu) at UT.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests include occupant-centric control of HVAC systems, energy flexibility of Grid-Interactive Efficient Buildings and the use of reinforcement learning for building energy systems control towards building electrification and decarbonization. I have participated in the organization of the [ACM SIGEnergy workshop on Reinforcement Learning for energy management in buildings and cities (RLEM)](http://www.rlem-workshop.net) at ACM BuildSys and I am the Co-President of [TexASHRAE](https://sites.utexas.edu/ashrae/), ASHRAE's UT Student Branch.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was born in [Ahoada](https://en.wikipedia.org/wiki/Ahoada), in the southern part of Nigeria and I am of the the [Ekpeye](https://en.wikipedia.org/wiki/Ekpeye_people) and [Igbo](https://en.wikipedia.org/wiki/Igbo_people) tribes. I spent most of my formative years in garden city of [Port Harcourt](https://en.wikipedia.org/wiki/Port_Harcourt) but moved to the United States for college and have somewhat stuck around since then. I am a sucker for good [afrobeat](https://en.wikipedia.org/wiki/Afrobeat) and [bashment](https://en.wikipedia.org/wiki/Dancehall) DJ mixes on [SoundCloud](https://soundcloud.com/kingsley-nweye), cheap wine, Guinness and [jollof](https://en.wikipedia.org/wiki/Jollof_rice) rice. You might find me building LEGOs or weightlifting in the gym when I convince myself that I have nothing left on my Trello board.
