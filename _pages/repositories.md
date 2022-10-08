@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Public GitHub repositories I have authored or contributed.
+description: Public GitHub repositories that I have authored or contributed to.
 nav: true
 nav_order: 3
 ---
