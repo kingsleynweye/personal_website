@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kingsleynweye
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - intelligent-environments-lab/CityLearn
+  - intelligent-environments-lab/dashboard
+  - kingsleynweye/farnsworth_project
+  - kingsleynweye/ut_calendar_scraper
+  - kingsleynweye/ut_building_scraper
+  - kingsleynweye/solar_calculator
