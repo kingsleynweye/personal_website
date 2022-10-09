@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <h3>Who am I?!</h3>
+# subtitle: <h3>Who am I?!</h3>
 
 profile:
   align: right
@@ -14,13 +14,13 @@ profile:
     <p>301 E. Dean Keeton St.</p>
     <p>Austin, Texas 78712-1700</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 I am a PhD student in the [Department of Civil, Architectural, and Environmental Engineering](https://www.caee.utexas.edu) at The University of Texas at Austin (UT) and a researcher in the [Intelligent Environments Laboratory](https://www.ie-lab.org) under the supervision of [Prof. Dr. Zoltan Nagy](https://www.caee.utexas.edu/people/faculty/faculty-directory/nagy). I also serve as a Graduate Research Assistant for the [Utility and Energy Management](https://utilities.utexas.edu) at UT.
 
-My research interests include occupant-centric control of HVAC systems, energy flexibility of Grid-Interactive Efficient Buildings and the use of reinforcement learning for building energy systems control towards building electrification and decarbonization. I have participated in the organization of the [ACM SIGEnergy workshop on Reinforcement Learning for energy management in buildings and cities (RLEM)](http://www.rlem-workshop.net) at ACM BuildSys and I am the Co-President of [TexASHRAE](https://sites.utexas.edu/ashrae/), ASHRAE's UT Student Branch.
+My research interests include occupant-centric control of HVAC systems, energy flexibility of Grid-Interactive Efficient Buildings and the use of reinforcement learning for building energy systems control towards building electrification and decarbonization. I have participated in the organization of the [ACM SIGEnergy workshop on Reinforcement Learning for energy management in buildings and cities (RLEM)](http://www.rlem-workshop.net) at ACM BuildSys and I am the Co-President of [TexASHRAE](https://sites.utexas.edu/ashrae/), the [American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE)](https://www.ashrae.org) UT Student Branch.
 
-I was born in [Ahoada](https://en.wikipedia.org/wiki/Ahoada), in the southern part of Nigeria and I am of the [Ekpeye](https://en.wikipedia.org/wiki/Ekpeye_people) and [Igbo](https://en.wikipedia.org/wiki/Igbo_people) tribes. I spent most of my formative years in the garden city of [Port Harcourt](https://en.wikipedia.org/wiki/Port_Harcourt) but moved to the United States for college and have somewhat stuck around since then. I am a sucker for good [afrobeats](https://en.wikipedia.org/wiki/Afrobeats) and [bashment](https://en.wikipedia.org/wiki/Dancehall) DJ mixes on [SoundCloud](https://soundcloud.com/kingsley-nweye), cheap wine, Guinness and [jollof](https://en.wikipedia.org/wiki/Jollof_rice) rice. You might find me building LEGOs or weightlifting in the gym when I convince myself that I have nothing left on my Trello board.
+Born in [Ahoada](https://en.wikipedia.org/wiki/Ahoada), in the southern part of Nigeria, I am of the [Ekpeye](https://en.wikipedia.org/wiki/Ekpeye_people) and [Igbo](https://en.wikipedia.org/wiki/Igbo_people) tribes. I spent most of my formative years in the garden city of [Port Harcourt](https://en.wikipedia.org/wiki/Port_Harcourt) but moved to the United States for college and have somewhat stuck around since then :slightly_smiling_face:. I am a sucker for good [afrobeats](https://en.wikipedia.org/wiki/Afrobeats) and [bashment](https://en.wikipedia.org/wiki/Dancehall) DJ mixes on [SoundCloud](https://soundcloud.com/kingsley-nweye), cheap wine, Guinness and [jollof](https://en.wikipedia.org/wiki/Jollof_rice) rice. You might find me building LEGOs or weightlifting in the gym when I convince myself that I have nothing left on my Trello board.
