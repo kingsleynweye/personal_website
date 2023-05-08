@@ -41,12 +41,23 @@
   file = {ScienceDirect Snapshot:/Users/kingsleyenweye/Zotero/storage/WKKKPQCC/S0306261923005810.html:text/html},
 }
 
-
 @misc{nweyeCityLearnChallenge20212023,
 	title = {The {CityLearn} {Challenge} 2021 {Benchmark} {Results}},
 	url = {https://dataverse.tdl.org/dataset.xhtml?persistentId=doi:10.18738/T8/6EGNHQ},
 	doi = {10.18738/T8/6EGNHQ},
-	abstract = {The dataset comes from an application of The CityLearn Challenge 2021 dataset in CityLearn to generate benchmark results.   To reproduce this datas...},
+	abstract = {The dataset comes from an application of The CityLearn Challenge 2021 dataset in CityLearn to generate benchmark results. 
+
+To reproduce this dataset, refer to the README. 
+
+This dataset is a collection of weather and carbon intensity time series, building and systems metadata as well as the resulting building level time series from an hourly 4-year-long simulation. The novel MARLISA agents for multi-agent reinforcement learning cooperative control are used to manage the buildings’ electrical and active thermal storage systems to provide energy flexibility in a demand response setting. Supplementary data from an hourly 4-year-long CityLearn environment simulation using a reference RBC are also included. 
+
+There are a total of 9 buildings in the environment and all buildings are DOE stock commercial buildings (1 medium office, 1 fast-food restaurant, 1 standalone retail, 1 strip mall retail, and 5 medium multifamily buildings). The dataset contains the following files:
+
+1. weather.csv - AMY Weather time series for New Orleans, LA (.csv)
+2. carbon\_intensity.csv - ERCOT carbon intensity time series (.csv)
+3. building\_id\_agent\_name.csv - Buildings time series for MARLISA and RBC control (.csv)
+4. variable\_metadata.csv - Variable metadata (.csv)
+5. building\_metadata.json - Building and systems metadata (.json)},
 	language = {en},
 	urldate = {2023-05-08},
 	publisher = {Texas Data Repository},
@@ -62,7 +73,17 @@
 	title = {The {CityLearn} {Challenge} 2022},
 	url = {https://dataverse.tdl.org/dataset.xhtml?persistentId=doi:10.18738/T8/0YLJ6Q},
 	doi = {10.18738/T8/0YLJ6Q},
-	abstract = {This is the dataset used for The CityLearn Challenge 2022.   It contains the schema, buildings, weather, carbon intensity and electricity pricing d...},
+	abstract = {This is the dataset used for The CityLearn Challenge 2022. 
+
+It contains the schema, buildings, weather, carbon intensity and electricity pricing datasets for Phases 1, 2 and 3 in separate folders. Note that the weather, carbon intensity and pricing data are the same in all folders. 
+
+The CityLearn version that was used for The CityLearn Challenge 2022 can be installed through pip: 
+
+pip install CityLearn==1.3.6 
+
+Earlier and later CityLearn versions may also be compatible with this dataset but could produce different simulation results. 
+
+Please, refer to the example Jupyter notebook to see how to use this dataset.},
 	language = {en},
 	urldate = {2023-05-08},
 	publisher = {Texas Data Repository},
@@ -74,18 +95,19 @@
 	file = {Snapshot:/Users/kingsleyenweye/Zotero/storage/UP9TL6NP/dataset.html:text/html},
 }
 
+
 % ============================================== 2022 ==============================================
-@article{https://doi.org/10.48550/arxiv.2211.12252,
-  doi = {10.48550/ARXIV.2211.12252},
-  url = {https://arxiv.org/abs/2211.12252},
-  author = {Li, H. and Johra, H. and Pereira, F. de Andrade and Hong, T. and Dreau, J. Le and Maturo, A. and Wei, M. and Liu, Y. and Saberi-Derakhtenjani, A. and Nagy, Z. and Marszal-Pomianowska, A. and Finn, D. and Miyata, S. and Kaspar, K. and Nweye, K. and Neill, Z. O and Pallonetto, F. and Dong, B.},
-  keywords = {Applied Physics (physics.app-ph), FOS: Physical sciences, FOS: Physical sciences},
-  title = {Data-Driven Key Performance Indicators and Datasets for Building Energy Flexibility: A Review and Perspectives},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International},
-  abstract = {Energy flexibility, through short-term demand-side management (DSM) and energy storage technologies, is now seen as a major key to balancing the fluctuating supply in different energy grids with the energy demand of buildings. This is especially important when considering the intermittent nature of ever-growing renewable energy production, as well as the increasing dynamics of electricity demand in buildings. This paper provides a holistic review of (1) data-driven energy flexibility key performance indicators (KPIs) for buildings in the operational phase and (2) open datasets that can be used for testing energy flexibility KPIs. The review identifies a total of 81 data-driven KPIs from 91 recent publications. These KPIs were categorized and analyzed according to their type, complexity, scope, key stakeholders, data requirement, baseline requirement, resolution, and popularity. Moreover, 330 building datasets were collected and evaluated. Of those, 16 were deemed adequate to feature building performing demand response or building-to-grid (B2G) services. The DSM strategy, building scope, grid type, control strategy, needed data features, and usability of these selected 16 datasets were analyzed. This review reveals future opportunities to address limitations in the existing literature: (1) developing new data-driven methodologies to specifically evaluate different energy flexibility strategies and B2G services of existing buildings; (2) developing baseline-free KPIs that could be calculated from easily accessible building sensors and meter data; (3) devoting non-engineering efforts to promote building energy flexibility, such as designing utility programs, standardizing energy flexibility quantification and verification processes; and (4) curating datasets with proper description for energy flexibility assessments.}
-}
+% @article{https://doi.org/10.48550/arxiv.2211.12252,
+%   doi = {10.48550/ARXIV.2211.12252},
+%   url = {https://arxiv.org/abs/2211.12252},
+%   author = {Li, H. and Johra, H. and Pereira, F. de Andrade and Hong, T. and Dreau, J. Le and Maturo, A. and Wei, M. and Liu, Y. and Saberi-Derakhtenjani, A. and Nagy, Z. and Marszal-Pomianowska, A. and Finn, D. and Miyata, S. and Kaspar, K. and Nweye, K. and Neill, Z. O and Pallonetto, F. and Dong, B.},
+%   keywords = {Applied Physics (physics.app-ph), FOS: Physical sciences, FOS: Physical sciences},
+%   title = {Data-Driven Key Performance Indicators and Datasets for Building Energy Flexibility: A Review and Perspectives},
+%   publisher = {arXiv},
+%   year = {2022},
+%   copyright = {Creative Commons Attribution 4.0 International},
+%   abstract = {Energy flexibility, through short-term demand-side management (DSM) and energy storage technologies, is now seen as a major key to balancing the fluctuating supply in different energy grids with the energy demand of buildings. This is especially important when considering the intermittent nature of ever-growing renewable energy production, as well as the increasing dynamics of electricity demand in buildings. This paper provides a holistic review of (1) data-driven energy flexibility key performance indicators (KPIs) for buildings in the operational phase and (2) open datasets that can be used for testing energy flexibility KPIs. The review identifies a total of 81 data-driven KPIs from 91 recent publications. These KPIs were categorized and analyzed according to their type, complexity, scope, key stakeholders, data requirement, baseline requirement, resolution, and popularity. Moreover, 330 building datasets were collected and evaluated. Of those, 16 were deemed adequate to feature building performing demand response or building-to-grid (B2G) services. The DSM strategy, building scope, grid type, control strategy, needed data features, and usability of these selected 16 datasets were analyzed. This review reveals future opportunities to address limitations in the existing literature: (1) developing new data-driven methodologies to specifically evaluate different energy flexibility strategies and B2G services of existing buildings; (2) developing baseline-free KPIs that could be calculated from easily accessible building sensors and meter data; (3) devoting non-engineering efforts to promote building energy flexibility, such as designing utility programs, standardizing energy flexibility quantification and verification processes; and (4) curating datasets with proper description for energy flexibility assessments.}
+% }
 
 
 @article{NWEYE2022100202,
