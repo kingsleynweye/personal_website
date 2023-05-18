@@ -235,7 +235,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Nweye]
-  first_name: [Kingsley, K., Kingsley E]
+  first_name: [Kingsley, K., Kingsley E, Kingsley E.]
 
   style: apa
   locale: en
