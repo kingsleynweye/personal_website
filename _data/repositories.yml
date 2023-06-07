@@ -2,14 +2,14 @@ github_users:
   - kingsleynweye
 
 github_repos:
+  - kingsleynweye/farnsworth_project
+  - kingsleynweye/personal_website
+  - kingsleynweye/solar_calculator
+  - kingsleynweye/ut_building_scraper
+  - kingsleynweye/ut_calendar_scraper
   - intelligent-environments-lab/CityLearn
   - intelligent-environments-lab/dashboard
-  - intelligent-environments-lab/merlin-apen-2023
   - intelligent-environments-lab/DOE_XStock
+  - intelligent-environments-lab/merlin-apen-2023
   - intelligent-environments-lab/rlem-workshop.net
-  - kingsleynweye/personal_website
-  - kingsleynweye/farnsworth_project
-  - kingsleynweye/ut_calendar_scraper
-  - kingsleynweye/ut_building_scraper
-  - kingsleynweye/solar_calculator
   - HichamJohra/energy_flexibility_kpis
