@@ -13,7 +13,10 @@ nav_order: 1
   <h2 class="year">{{y[0]}}</h2>
   <ul>
   {%- for m in y[1] %}
-    <li><a href="{{m.url}}">{{m.title}}</a> <i>({{m.date}})</i></li>
+    <li>
+      <a href="{{m.url}}">{{m.title}}</a> 
+      <!-- <i>({{m.date}})</i> -->
+    </li>
   {% endfor %}
   </ul>
 {% endfor %}
