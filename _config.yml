@@ -98,7 +98,8 @@ contact_note: >
 # -----------------------------------------------------------------------------
 # Resume
 # -----------------------------------------------------------------------------
-resume_path: /assets/pdf/Kingsley_Resume.pdf
+resume_path: /assets/pdf/resume.pdf
+cv_path: /assets/pdf/cv.pdf
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
