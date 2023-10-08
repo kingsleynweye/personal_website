@@ -6,7 +6,7 @@ title: media
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
+
 <div class="publications">
 
 {%- for y in site.data.media %}
@@ -15,7 +15,7 @@ nav_order: 1
   {%- for m in y[1] %}
     <li>
       <a href="{{m.url}}">{{m.title}}</a> 
-      <!-- <i>({{m.date}})</i> -->
+      <i>({{m.organization}})</i>
     </li>
   {% endfor %}
   </ul>
