@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Mechanical Engineer at [Jacobs](https://www.jacobs.com) where I get to contribute to thermal energy generation decarbonization through utility-scale geothermal cooling and heating modelling, building energy performance modelling and software development for utility master planning.
+I am a Mechanical Engineer at [Jacobs](https://www.jacobs.com) where I get to contribute to thermal energy generation decarbonization through utility-scale geothermal cooling and heating modelling, building energy performance modelling and software development for utility master planning.
 
 I hold a BSE in Mechanical Engineering from University of South Carolina, Columbia, and a PhD in Civil Engineering from The University of Texas at Austin (UT), where I was a researcher in the [Intelligent Environments Laboratory](https://www.ie-lab.org) leading the development of [CityLearn](https://www.citylearn.net) under the supervision of [Prof. Dr. Zoltan Nagy](https://www.ie-lab.org/author/zoltan-nagy/). My research has been awarded at the [IBPSA-USA SimBuild 2024](https://ibpsa.us/simbuild-2024-celebrating-two-decades/) and [ACM BuildSys 2023](https://buildsys.acm.org/2023/) conferences. I also, worked as a Graduate Research Assistant for [Utility and Energy Management](https://utilities.utexas.edu) at UT developing the backend and cloud infrastructure for the [UT Energy Hub](https://utenergyhub.utilities.utexas.edu/login).
 
