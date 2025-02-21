@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /media/
-title: media
+permalink: /news/
+title: news
 # years: [2023, 2022, 2021, 2020]
 nav: true
 nav_order: 1
@@ -9,7 +9,7 @@ nav_order: 1
 
 <div class="publications">
 
-{%- for y in site.data.media %}
+{%- for y in site.data.news %}
   <h2 class="year">{{y[0]}}</h2>
   <ul>
   {%- for m in y[1] %}
@@ -28,7 +28,7 @@ nav_order: 1
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f media -q @*[year={{y}}]* %}
+  {% bibliography -f news -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div> -->
